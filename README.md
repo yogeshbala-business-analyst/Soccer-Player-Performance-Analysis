@@ -26,10 +26,10 @@ Feature Engineering: Develop new metrics that enhance player evaluation and comp
 
 Visualization and Reporting: Create interactive dashboards in Power BI or Tableau to showcase insights and recommendations.
 
-Key Questions for Player Performance Analysis (SQL and Power BI):
+## Key Questions for Player Performance Analysis (SQL and Power BI):
 1. Identify the top players by overall rating.
    
-3. Calculate the average age of players in each position.
+2. Calculate the average age of players in each position.
    
 3.Determine the market value distribution among different nationalities.
 
