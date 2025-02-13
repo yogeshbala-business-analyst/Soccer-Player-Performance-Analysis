@@ -81,6 +81,8 @@ The "Acceleration" column is critical for the analysis, and since some rows had 
 
 # Dashboard ![image](https://github.com/user-attachments/assets/0b628db2-5976-4f9d-ae01-7ea3ad6b3338)
 
+Full project https://github.com/yogeshbala-business-analyst/Soccer-Player-Performance-Analysis/blob/main/FIFA_OLYMPIC_PROJECT%20.pptx
+
 Identify The Top Players By Overall Rating
 Findings:
 
@@ -100,13 +102,13 @@ The analysis highlights these players as key figures in soccer, showcasing their
 
 # Calculate the average age of players in each position
    GK: Goalkeeper - 26.11  
-   CDM: Central Defensive 
-   Midfielder - 25.79
-    CB: Centre  Back - 25.77
-    RB: Right Back - 25.13
-    LB: Left Back - 25.03 
-   ST: Striker - 24.85
-    RM: Right Midfielder - 23.65
+      CDM: Central Defensive 
+      Midfielder - 25.79
+       CB: Centre  Back - 25.77
+       RB: Right Back - 25.13
+       LB: Left Back - 25.03 
+      ST: Striker - 24.85
+       RM: Right Midfielder - 23.65
     ![image](https://github.com/user-attachments/assets/a6ec31e7-2775-4121-bf71-3a753ccfcb22)
 
  
@@ -178,7 +180,10 @@ Growth Highland : After age 18, the rate of improvement slows down. Players reac
 
 ## Identify Players With Multiple Preferred Positions And Their Performance Metrics
 
-Among 17,845 players, 8,169 play multiple positions. Multi-position players, especially those with high overall ratings, provide significant strategic benefits. Their adaptability makes them valuable assets in a lineup, as they can cover gaps caused by injuries or tactical shifts. Identifying high-rated multi-position players (e.g., those rated 80 and above) can highlight key talents who offer both high performance and flexibility.
+Among 17,845 players, 8,169 play multiple positions. Multi-position players, especially those with high overall ratings, provide significant strategic benefits.
+Their adaptability makes them valuable assets in a lineup, as they can cover gaps caused by injuries or tactical shifts. 
+Identifying high-rated multi-position players (e.g., those rated 80 and above) can highlight key talents who offer both high performance and flexibility.
+
 ![image](https://github.com/user-attachments/assets/fcdd1b0b-b24b-45e7-9129-13dfdbcaa9b9)
 
 Multi-Position Player Insights
@@ -190,7 +195,8 @@ Valuable assets in dynamic lineups.
 High-Rated Multi-Position Players:
 Focus on players rated 80+ for optimal performance and flexibility.
 
-Key Insight: Multi-position players with high ratings are critical for maximizing team versatility and efficiency.
+Key Insight:
+Multi-position players with high ratings are critical for maximizing team versatility and efficiency.
 
 Analyze Correlations Between Physical Attributes And Skill Ratings
 The strong positive trend here suggests that players with high sprint speed are also often effective finishers. This combination allows players to quickly get behind defenses and capitalize on scoring opportunities with precise finishing.
@@ -258,7 +264,7 @@ After age 36, a slow but noticeable decline in rating begins, likely due to the 
 These insights illustrate a typical career trajectory, emphasizing the importance of player development in early years, peak physical and skill-based consistency in late 20s to early 30s, and the gradual performance impact of aging.
 
 
-#Recommendations
+# Recommendations
 
 1) Enhance Player Recruitment
 
