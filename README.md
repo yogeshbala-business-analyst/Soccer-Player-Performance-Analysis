@@ -48,12 +48,11 @@ The "Acceleration" column is critical for the analysis, and since some rows had 
 
 
 ## Key Questions for Player Performance Analysis (SQL and Power BI):
-
-  1. Identify the top players by overall rating.
+1. Identify the top players by overall rating.
    
 2. Calculate the average age of players in each position.
    
-   3.Determine the market value distribution among different nationalities.
+3.Determine the market value distribution among different nationalities.
 
 4.Analyze performance metrics of players by club.
 
@@ -106,16 +105,16 @@ The analysis highlights these players as key figures in soccer, showcasing their
 ![image](https://github.com/user-attachments/assets/f017ed17-a893-458a-979f-6ac42e63386f)
 
 # Calculate the average age of players in each position
-        GK: Goalkeeper - 26.11  
-        CDM: Central Defensive 
-        Midfielder - 25.79
-        CB: Centre  Back - 25.77
-        RB: Right Back - 25.13
-        LB: Left Back - 25.03 
-        ST: Striker - 24.85
-        RM: Right Midfielder - 23.65
-       
-     ![image](https://github.com/user-attachments/assets/a6ec31e7-2775-4121-bf71-3a753ccfcb22)
+   GK: Goalkeeper - 26.11  
+   CDM: Central Defensive 
+   Midfielder - 25.79
+    CB: Centre  Back - 25.77
+    RB: Right Back - 25.13
+    LB: Left Back - 25.03 
+     ST: Striker - 24.85
+    RM: Right Midfielder - 23.65
+
+  ![image](https://github.com/user-attachments/assets/a6ec31e7-2775-4121-bf71-3a753ccfcb22)
 
  
 #### Analysis:
